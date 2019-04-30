@@ -1,4 +1,8 @@
-## 4.4.4
+## 4.3.5
+
+- remove default jquery as it always loading jquery.js, not based on version
+
+## 4.3.4
 
 - update jquery to 3.4.0
 - set the default jquery to 3.4.0
